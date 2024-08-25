@@ -130,6 +130,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ![Screenshot 2024-08-25 160620](https://github.com/user-attachments/assets/b727043a-e198-4fb6-8ba3-428424b026ce)
 
-## Output when the News is Real
+## Output when the News is Fake
 
 ![Screenshot 2024-08-25 160744](https://github.com/user-attachments/assets/0471a526-a775-4b20-b651-82e9b762df46)
