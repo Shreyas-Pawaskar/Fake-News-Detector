@@ -112,12 +112,23 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
 - [Scikit-learn](https://scikit-learn.org/)
 - [NLTK](https://www.nltk.org/)
+
+
+## Screenshots
+
+# The Interface
+
+![Screenshot 2024-08-25 160411](https://github.com/user-attachments/assets/c39408c3-8af6-4437-a4bd-8ddbe5e972e5)
+
+## Output when the News is Real
+
+![Screenshot 2024-08-25 160620](https://github.com/user-attachments/assets/b727043a-e198-4fb6-8ba3-428424b026ce)
+
+## Output when the News is Real
+
+![Screenshot 2024-08-25 160744](https://github.com/user-attachments/assets/0471a526-a775-4b20-b651-82e9b762df46)
