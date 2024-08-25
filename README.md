@@ -94,6 +94,14 @@ The app uses a dataset of news articles with labels indicating whether they are 
 
 **Note**: The dataset is not included in this repository. Ensure that you have the dataset before running the app.
 
+**Download the Dataset**
+
+   Download the dataset from Kaggle:
+
+   - [Fake News Dataset on Kaggle](https://www.kaggle.com/c/fake-news/data)
+
+   Place the downloaded `train.csv` file in the project directory.
+
 ## Model Details
 
 - **Vectorization**: The text data is vectorized using `TfidfVectorizer` to convert text into numerical format.
