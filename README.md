@@ -94,7 +94,7 @@ The app uses a dataset of news articles with labels indicating whether they are 
 
 **Note**: The dataset is not included in this repository. Ensure that you have the dataset before running the app.
 
-**Download the Dataset**
+## Download the Dataset
 
    Download the dataset from Kaggle:
 
